@@ -1,0 +1,753 @@
+{
+  "name": "Ichrak Chahbani",
+  "title": {
+    "fr": "Ingénieure en développement web Full-Stack | JavaScript / TypeScript · React · Next.js · NestJS · Node.js",
+    "en": "Full-Stack Web Engineer | JavaScript / TypeScript · React · Next.js · NestJS · Node.js"
+  },
+  "location": {
+    "fr": "Djerba, Tunisie",
+    "en": "Djerba, Tunisia"
+  },
+  "experienceYears": 4,
+  "email": "ichrak.ch.pro@gmail.com",
+  "linkedin": "linkedin.com/in/ichrak-chahbani-358500263",
+  "linkedinUrl": "https://www.linkedin.com/in/ichrak-chahbani-358500263/",
+  "cvUrl": null,
+  "heroDescription": {
+    "fr": "Plus de 4 ans d’expérience dans le développement d’applications web, avec une expertise en React, Next.js, Node.js et NestJS. J’interviens de la conception à la mise en production, en transformant les besoins fonctionnels en solutions robustes, évolutives et maintenables.",
+    "en": "4+ years of experience building web applications, with expertise in React, Next.js, Node.js and NestJS. I work from design to production, turning functional requirements into robust, scalable and maintainable solutions."
+  },
+  "bio": {
+    "fr": "J’adopte une approche orientée solution : comprendre les enjeux métier, analyser les problématiques et concevoir des solutions fiables, maintenables et adaptées aux besoins. J’exploite également l’IA comme un véritable levier de productivité et d’innovation, de l’exploration au prototypage et à l’automatisation, tout en gardant une maîtrise rigoureuse des choix techniques et de la qualité des résultats.",
+    "en": "I take a solution-oriented approach: understanding the business stakes, analysing problems and designing reliable, maintainable solutions that fit the need. I also use AI as a real lever for productivity and innovation, from exploration to prototyping and automation, while keeping rigorous control over technical choices and the quality of the results."
+  },
+  "skills": [
+    {
+      "category": {
+        "fr": "Frontend",
+        "en": "Frontend"
+      },
+      "items": [
+        "React",
+        "Next.js",
+        "Gatsby",
+        "TypeScript",
+        "JavaScript",
+        "TailwindCSS",
+        "Shadcn/ui"
+      ]
+    },
+    {
+      "category": {
+        "fr": "Backend",
+        "en": "Backend"
+      },
+      "items": [
+        "Node.js",
+        "NestJS",
+        "API REST",
+        "GraphQL",
+        "JWT",
+        "Swagger",
+        "Prisma"
+      ]
+    },
+    {
+      "category": {
+        "fr": "Bases de données",
+        "en": "Databases"
+      },
+      "items": [
+        "MongoDB",
+        "MySQL"
+      ]
+    },
+    {
+      "category": {
+        "fr": "Mobile",
+        "en": "Mobile"
+      },
+      "items": [
+        "React Native"
+      ]
+    },
+    {
+      "category": {
+        "fr": "CMS & Cloud",
+        "en": "CMS & Cloud"
+      },
+      "items": [
+        "Strapi",
+        "Salesforce",
+        "Azure"
+      ]
+    },
+    {
+      "category": {
+        "fr": "Outils",
+        "en": "Tooling"
+      },
+      "items": [
+        "Docker",
+        "Git",
+        "GitHub Actions",
+        "ESLint",
+        "Jest"
+      ]
+    },
+    {
+      "category": {
+        "fr": "Organisation & collaboration",
+        "en": "Workflow & collaboration"
+      },
+      "items": [
+        "ClickUp",
+        "Notion",
+        "Miro"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "YZY Digital",
+      "role": {
+        "fr": "Ingénieure en développement web Full-Stack",
+        "en": "Full-Stack Web Engineer"
+      },
+      "period": {
+        "fr": "Février 2022 — présent",
+        "en": "Feb 2022 — Present"
+      },
+      "location": "Djerba",
+      "highlights": {
+        "fr": [
+          "Développement de YZY Content AI, plateforme interne qui automatise le SEO et la rédaction de contenus avec l'IA (Claude, OpenAI).",
+          "Contribution à YZY WebFactory, CMS headless multi-tenant en monorepo (NestJS, Next.js, Nx).",
+          "Réalisation de sites web clients et du site vitrine de l'agence (Next.js, Gatsby, Strapi, GraphQL).",
+          "Application mobile MBT pour Pierre Fabre conçue de zéro (React Native), et évolutions de la version iPad (Angular, Salesforce)."
+        ],
+        "en": [
+          "Built YZY Content AI, an internal platform that automates SEO and content writing with AI (Claude, OpenAI).",
+          "Contributed to YZY WebFactory, a multi-tenant headless CMS in a monorepo (NestJS, Next.js, Nx).",
+          "Delivered client websites and the agency's own showcase site (Next.js, Gatsby, Strapi, GraphQL).",
+          "Built Pierre Fabre's MBT mobile app from scratch (React Native) and evolved its iPad version (Angular, Salesforce)."
+        ]
+      }
+    }
+  ],
+  "expertise": [
+    {
+      "title": {
+        "fr": "Architecture full-stack",
+        "en": "Full-stack architecture"
+      },
+      "description": {
+        "fr": "Applications de bout en bout : frontends React/Next.js, API NestJS et Node.js, monorepos Nx, modélisation des données MongoDB et MySQL.",
+        "en": "End-to-end applications: React/Next.js front ends, NestJS and Node.js APIs, Nx monorepos, MongoDB and MySQL data modelling."
+      }
+    },
+    {
+      "title": {
+        "fr": "IA appliquée au web",
+        "en": "AI in web products"
+      },
+      "description": {
+        "fr": "Intégration de Claude et OpenAI dans des produits réels : génération de contenu, recherche agentique, traitements longs en tâche de fond (Bull, Redis) suivis en temps réel (Socket.IO).",
+        "en": "Bringing Claude and OpenAI into real products: content generation, agentic search, long-running background jobs (Bull, Redis) tracked in real time (Socket.IO)."
+      }
+    },
+    {
+      "title": {
+        "fr": "Plateformes multi-tenant & CMS headless",
+        "en": "Multi-tenant platforms & headless CMS"
+      },
+      "description": {
+        "fr": "Plusieurs sites et clients servis depuis une seule instance, permissions par rôle, contenus pilotés par Strapi ou un CMS sur mesure via REST et GraphQL.",
+        "en": "Several sites and clients served from one instance, role-based permissions, content driven by Strapi or a custom CMS over REST and GraphQL."
+      }
+    },
+    {
+      "title": {
+        "fr": "Qualité & mise en production",
+        "en": "Quality & delivery"
+      },
+      "description": {
+        "fr": "TypeScript, Docker, CI/CD avec GitHub Actions, analyse de code SonarCloud, suivi des erreurs avec Sentry.",
+        "en": "TypeScript, Docker, GitHub Actions CI/CD, SonarCloud code analysis, error tracking with Sentry."
+      }
+    }
+  ],
+  "education": [
+    {
+      "degree": {
+        "fr": "Diplôme National d'Ingénieur en Informatique",
+        "en": "National Engineering Degree in Computer Science"
+      },
+      "school": "ISIMS, Sfax",
+      "period": "2019–2022"
+    },
+    {
+      "degree": {
+        "fr": "Licence Fondamentale en Informatique de Gestion",
+        "en": "Bachelor's Degree in Management Computer Science"
+      },
+      "school": "ISG, Gabès",
+      "period": "2016–2019"
+    }
+  ],
+  "languages": [
+    {
+      "name": {
+        "fr": "Français",
+        "en": "French"
+      },
+      "level": {
+        "fr": "Courant",
+        "en": "Fluent"
+      },
+      "percent": 90
+    },
+    {
+      "name": {
+        "fr": "Anglais",
+        "en": "English"
+      },
+      "level": {
+        "fr": "Intermédiaire",
+        "en": "Intermediate"
+      },
+      "percent": 60
+    },
+    {
+      "name": {
+        "fr": "Arabe",
+        "en": "Arabic"
+      },
+      "level": {
+        "fr": "Natif",
+        "en": "Native"
+      },
+      "percent": 100
+    }
+  ],
+  "projects": [
+    {
+      "slug": "yzy-content-ai",
+      "name": {
+        "fr": "YZY Content AI — Automatisation SEO et rédaction par l'IA",
+        "en": "YZY Content AI — AI-Powered SEO & Content Automation"
+      },
+      "description": {
+        "fr": "Plateforme d'automatisation des tâches SEO et de rédaction par l'IA (Claude et OpenAI), conçue pour l'agence web de YZY Digital afin de faire gagner du temps aux équipes sur les tâches répétitives de création des sites clients.",
+        "en": "A platform that automates SEO and copywriting tasks with AI (Claude and OpenAI), built for YZY Digital's web agency to save its teams time on the repetitive work of building client websites."
+      },
+      "keyPoints": {
+        "fr": [
+          "SEO : recherche et stratégie de mots-clés, arborescence du site, analyse de pages, SEO local, propositions de noms de domaine.",
+          "Rédaction : génération de contenus optimisés SEO, page par page ou en masse, puis relecture et ajustement dans un éditeur dédié.",
+          "Analyse de l'existant : scraping du site actuel du client pour reprendre et améliorer ses contenus.",
+          "E-réputation : suivi des avis et de la présence en ligne, avec des réponses assistées par l'IA.",
+          "Publication : envoi des contenus vers le CMS Duda.",
+          "Pilotage depuis une seule interface : suivi des projets clients, workflow éditorial par rôles (rédacteur, expert SEO, coordinateur), générations lancées en tâche de fond et suivies en temps réel."
+        ],
+        "en": [
+          "SEO: keyword research and strategy, site structure, page analysis, local SEO, domain name suggestions.",
+          "Copywriting: SEO-optimised content generated page by page or in bulk, then reviewed and refined in a dedicated editor.",
+          "Existing-site analysis: scraping the client's current website to reuse and improve its content.",
+          "Online reputation: tracking reviews and online presence, with AI-assisted replies.",
+          "Publishing: pushing content to the Duda CMS.",
+          "Managed from a single interface: client project tracking, role-based editorial workflow (writer, SEO expert, coordinator), and background generation jobs tracked in real time."
+        ]
+      },
+      "stack": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "Tailwind CSS",
+        "TanStack Query",
+        "Zustand",
+        "NestJS",
+        "MongoDB",
+        "Bull",
+        "Redis",
+        "Socket.IO",
+        "Anthropic Claude",
+        "OpenAI",
+        "JWT",
+        "Azure AD (SSO)",
+        "Cheerio",
+        "Docker",
+        "Kubernetes",
+        "ArgoCD",
+        "Kargo",
+        "GitHub Actions",
+        "SonarCloud"
+      ],
+      "images": [
+        {
+          "src": "/projects/yzy-content-ai/01-seo-studio.webp",
+          "alt": {
+            "fr": "SEO Studio : stratégie de mots-clés générée par l'IA (quick wins, principaux, secondaires)",
+            "en": "SEO Studio: AI-generated keyword strategy (quick wins, primary, secondary)"
+          }
+        },
+        {
+          "src": "/projects/yzy-content-ai/02-redaction-studio.webp",
+          "alt": {
+            "fr": "Rédaction Studio : contenu de chaque page généré par l'IA, avec suivi de l'avancement",
+            "en": "Writing Studio: AI-generated content for every page, with progress tracking"
+          }
+        },
+        {
+          "src": "/projects/yzy-content-ai/03-design-studio.webp",
+          "alt": {
+            "fr": "Design Studio : charte graphique générée à partir d'une description du projet",
+            "en": "Design Studio: brand guidelines generated from a project description"
+          }
+        },
+        {
+          "src": "/projects/yzy-content-ai/04-jobs.webp",
+          "alt": {
+            "fr": "Jobs : pipelines IA lancés en tâche de fond (Bull/Redis) et suivis en temps réel",
+            "en": "Jobs: AI pipelines run in the background (Bull/Redis) and tracked in real time"
+          }
+        },
+        {
+          "src": "/projects/yzy-content-ai/05-prompts.webp",
+          "alt": {
+            "fr": "Paramètres : prompts configurables pour chaque studio",
+            "en": "Settings: configurable prompts for each studio"
+          }
+        },
+        {
+          "src": "/projects/yzy-content-ai/06-wiki.webp",
+          "alt": {
+            "fr": "Wiki intégré : guides par rôle (chef de projet, SEO, rédacteur, designer)",
+            "en": "Built-in wiki: role-based guides (project manager, SEO, writer, designer)"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "webfactory",
+      "name": {
+        "fr": "YZY WebFactory — Usine de création de sites web",
+        "en": "YZY WebFactory — Multi-Site Website Platform"
+      },
+      "description": {
+        "fr": "CMS headless multisite permettant de créer et gérer plusieurs sites depuis une interface unique (page builder, collections dynamiques, médias, workflows).",
+        "en": "A headless, multi-tenant CMS for building and managing multiple sites from a single interface — page builder, dynamic collections, media library, workflows."
+      },
+      "keyPoints": {
+        "fr": [
+          "Contribution aux modules collections et médias, à l'éditeur de texte riche et à l'import/export.",
+          "Architecture monorepo (npm workspaces + Nx) : apps/api (NestJS, API REST headless), apps/cms (Next.js, panel d'admin), libs/page-builder (lib React publiée en package npm, consommée par les sites clients).",
+          "Authentification par magic links (passwordless).",
+          "Multi-tenant : gestion de plusieurs sites/clients depuis une seule instance, avec permissions par rôle (CASL).",
+          "IA intégrée : recherche agentique, génération assistée de contenu (SDK Anthropic/Gemini)."
+        ],
+        "en": [
+          "Built the collections and media modules, the rich text editor, and import/export tooling.",
+          "Monorepo architecture (npm workspaces + Nx): apps/api — headless NestJS REST API, apps/cms — Next.js admin panel, libs/page-builder — React library published as an npm package and consumed by client sites.",
+          "Passwordless authentication via magic links.",
+          "Multi-tenant: manages several sites/clients from a single instance, with role-based permissions (CASL).",
+          "AI built in: agentic search and AI-assisted content generation (Anthropic/Gemini SDKs)."
+        ]
+      },
+      "stack": [
+        "Next.js",
+        "NestJS",
+        "Prisma",
+        "MongoDB",
+        "TypeScript",
+        "Azure Blob Storage",
+        "Azure API Management",
+        "Docker"
+      ],
+      "images": [
+        {
+          "src": "/projects/webfactory/01-sites.webp",
+          "alt": {
+            "fr": "Accueil multisite : tous les sites gérés depuis une seule instance",
+            "en": "Multi-site home: every site managed from a single instance"
+          }
+        },
+        {
+          "src": "/projects/webfactory/02-tableau-de-bord.webp",
+          "alt": {
+            "fr": "Tableau de bord du site : activité récente, statuts et planning des collections",
+            "en": "Site dashboard: recent activity, statuses and collection schedule"
+          }
+        },
+        {
+          "src": "/projects/webfactory/03-collection-grille.webp",
+          "alt": {
+            "fr": "Collection en vue grille, avec filtres, import et export",
+            "en": "Collection in grid view, with filters, import and export"
+          }
+        },
+        {
+          "src": "/projects/webfactory/04-collection-kanban.webp",
+          "alt": {
+            "fr": "La même collection en vue Kanban, par statut de workflow",
+            "en": "The same collection as a Kanban board, by workflow status"
+          }
+        },
+        {
+          "src": "/projects/webfactory/05-editeur-seo.webp",
+          "alt": {
+            "fr": "Édition d'un enregistrement, avec planification et analyse SEO",
+            "en": "Record editor with scheduling and SEO analysis"
+          }
+        },
+        {
+          "src": "/projects/webfactory/06-mediatheque.webp",
+          "alt": {
+            "fr": "Médiathèque organisée en dossiers, avec génération d'images par IA",
+            "en": "Media library organised in folders, with AI image generation"
+          }
+        },
+        {
+          "src": "/projects/webfactory/07-page-builder.webp",
+          "alt": {
+            "fr": "Page builder visuel : sections et blocs éditables directement sur la page",
+            "en": "Visual page builder: sections and blocks edited directly on the page"
+          }
+        },
+        {
+          "src": "/projects/webfactory/08-site-publie.webp",
+          "alt": {
+            "fr": "Le site client publié, alimenté par l'API headless",
+            "en": "The published client site, powered by the headless API"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "mbt-mobile",
+      "name": {
+        "fr": "MBT Mobile (iOS/Android)",
+        "en": "MBT Mobile (iOS/Android)"
+      },
+      "description": {
+        "fr": "Version mobile (iOS/Android) de l'application MBT pour Pierre Fabre, avec les mêmes fonctionnalités que la version iPad : produits dermo-cosmétiques, clients et panier de vente, pour les vendeuses en point de vente.",
+        "en": "Mobile version (iOS/Android) of Pierre Fabre's MBT application, with the same features as the iPad app: dermo-cosmetic products, customers and sales basket, for sales advisors in retail stores."
+      },
+      "keyPoints": {
+        "fr": [
+          "Application conçue et développée de zéro, de l'architecture à la publication sur les stores.",
+          "Parité fonctionnelle avec l'application iPad : catalogue produits, fiches clients, panier et validation des ventes.",
+          "React Native et Expo, navigation par menu, piles et onglets (React Navigation), état global organisé par domaine avec React Context.",
+          "Fonctionnement hors ligne : base locale SQLite chiffrée en AES-256, clé stockée dans le Keychain / Keystore, détection du réseau et synchronisation en arrière-plan.",
+          "API REST Strapi avec authentification JWT et rafraîchissement automatique du token.",
+          "Fonctions natives : scan de code-barres, signature, affichage de PDF, sélection d'images.",
+          "Application bilingue FR/EN, suivi des erreurs avec Sentry et analytics avec Matomo."
+        ],
+        "en": [
+          "Designed and built from scratch, from architecture to store release.",
+          "Feature parity with the iPad app: product catalogue, customer profiles, basket and sale validation.",
+          "React Native and Expo, drawer, stack and tab navigation (React Navigation), global state organised by domain with React Context.",
+          "Offline-first: local SQLite database encrypted with AES-256, key stored in the iOS Keychain / Android Keystore, network detection and background sync.",
+          "Strapi REST API with JWT authentication and automatic token refresh.",
+          "Native features: barcode scanning, signature capture, PDF viewing, image picking.",
+          "Bilingual FR/EN app, error tracking with Sentry and analytics with Matomo."
+        ]
+      },
+      "stack": [
+        "React Native",
+        "Expo",
+        "JavaScript",
+        "React Navigation",
+        "SQLCipher",
+        "Axios",
+        "JWT",
+        "Formik",
+        "Yup",
+        "i18next",
+        "Strapi",
+        "Sentry",
+        "Matomo"
+      ],
+      "images": [
+        {
+          "src": "/projects/mbt-mobile/01-accueil.webp",
+          "alt": {
+            "fr": "Accueil : actions rapides et synchronisation des données saisies hors ligne",
+            "en": "Home: quick actions and sync of data captured offline"
+          },
+          "format": "mobile"
+        },
+        {
+          "src": "/projects/mbt-mobile/02-fiche-produit.webp",
+          "alt": {
+            "fr": "Fiche produit : bienfaits, description, conseils d'utilisation et composition",
+            "en": "Product sheet: benefits, description, usage advice and ingredients"
+          },
+          "format": "mobile"
+        },
+        {
+          "src": "/projects/mbt-mobile/03-panier.webp",
+          "alt": {
+            "fr": "Panier : recherche ou scan de produits, puis validation de la vente",
+            "en": "Basket: search or scan products, then validate the sale"
+          },
+          "format": "mobile"
+        },
+        {
+          "src": "/projects/mbt-mobile/04-environnement.webp",
+          "alt": {
+            "fr": "Choix de l'environnement Salesforce (PROD, UAT, TRN) à la connexion",
+            "en": "Choosing the Salesforce environment (PROD, UAT, TRN) at sign-in"
+          },
+          "format": "mobile"
+        },
+        {
+          "src": "/projects/mbt-mobile/05-connexion-salesforce.webp",
+          "alt": {
+            "fr": "Connexion via Salesforce",
+            "en": "Sign-in through Salesforce"
+          },
+          "format": "mobile"
+        }
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.pierrefabre.france.fr.mybeautytool"
+    },
+    {
+      "slug": "mbt-ipad",
+      "name": {
+        "fr": "MBT (My Beauty Tool) — Application iPad",
+        "en": "MBT (My Beauty Tool) — iPad Application"
+      },
+      "description": {
+        "fr": "Application iPad développée pour Pierre Fabre et utilisée par les vendeuses (Beauty Agents) dans les points de vente : gestion des produits dermo-cosmétiques, des clients et du panier de vente, avec Salesforce comme backend.",
+        "en": "iPad application built for Pierre Fabre and used by sales advisors (Beauty Agents) in retail stores: dermo-cosmetic product management, customer management and sales basket, with Salesforce as the backend."
+      },
+      "keyPoints": {
+        "fr": [
+          "Intervention sur une application existante : paramétrage, évolutions et améliorations fonctionnelles.",
+          "Maintenance de l'application et de son intégration avec Salesforce.",
+          "Front-end Angular 13 et TypeScript, en programmation réactive avec RxJS, interface en Angular Material.",
+          "Intégration Salesforce complète : REST API (SOQL, CRUD), Composite API, Bulk API v2, endpoints Apex REST sur mesure et authentification OAuth2.",
+          "Application multilingue (ngx-translate) et export de données en fichiers Excel (ExcelJS)."
+        ],
+        "en": [
+          "Worked on an existing application: configuration, new features and functional improvements.",
+          "Maintained the application and its Salesforce integration.",
+          "Angular 13 and TypeScript front end, reactive programming with RxJS, UI built with Angular Material.",
+          "Full Salesforce integration: REST API (SOQL, CRUD), Composite API, Bulk API v2, custom Apex REST endpoints and OAuth2 authentication.",
+          "Multilingual app (ngx-translate) and data export to Excel files (ExcelJS)."
+        ]
+      },
+      "stack": [
+        "Angular",
+        "TypeScript",
+        "RxJS",
+        "Angular Material",
+        "ngx-translate",
+        "ExcelJS",
+        "Salesforce",
+        "OAuth2"
+      ],
+      "images": [
+        {
+          "src": "/projects/mbt-ipad/01-accueil-menu.webp",
+          "alt": {
+            "fr": "Accueil avec le menu de navigation : produits, consommateurs, panier, agenda, formation, objectifs",
+            "en": "Home with the navigation menu: products, consumers, basket, calendar, training, objectives"
+          },
+          "format": "tablet"
+        },
+        {
+          "src": "/projects/mbt-ipad/02-fiche-consommateur.webp",
+          "alt": {
+            "fr": "Fiche consommateur : profil et produits les plus achetés",
+            "en": "Consumer profile: characteristics and most-bought products"
+          },
+          "format": "tablet"
+        },
+        {
+          "src": "/projects/mbt-ipad/03-recherche-produits.webp",
+          "alt": {
+            "fr": "Recherche dans le catalogue (1 270 produits), avec filtres et ajout au panier",
+            "en": "Catalogue search (1,270 products) with filters and add-to-basket"
+          },
+          "format": "tablet"
+        },
+        {
+          "src": "/projects/mbt-ipad/04-fiche-produit.webp",
+          "alt": {
+            "fr": "Fiche produit en version tablette",
+            "en": "Product sheet, tablet layout"
+          },
+          "format": "tablet"
+        }
+      ]
+    },
+    {
+      "slug": "viatelease",
+      "name": {
+        "fr": "Viatelease",
+        "en": "Viatelease"
+      },
+      "description": {
+        "fr": "Site web du client Viatelease, société de financement spécialisée dans la location financière (leasing) d'équipements professionnels.",
+        "en": "Website for the client Viatelease, a finance company specialising in leasing professional equipment."
+      },
+      "keyPoints": {
+        "fr": [
+          "Site complet : secteurs d'activité, cas clients, magazine, offres d'emploi avec candidature, FAQ, agences, simulateur de financement et formulaires de contact.",
+          "Front-end Gatsby 4 (React 17) généré statiquement : les pages sont créées à partir de Strapi selon leur type (secteur, cas client, offre d'emploi, article…), chacune avec son template.",
+          "Pages construites par sections dynamiques : chaque type de section GraphQL est associé à un composant React dédié.",
+          "Back-office Strapi 4 sur MySQL, exposé en REST et GraphQL, multilingue, avec un plugin maison de construction de contenu.",
+          "Médias sur DigitalOcean Spaces (CDN), emails transactionnels via Mailjet.",
+          "SEO (sitemap, URLs canoniques, PWA) et conformité RGPD (Google Tag Manager, consentement cookies).",
+          "Déploiement sur Netlify déclenché depuis Strapi, avec un environnement de test et un de production."
+        ],
+        "en": [
+          "Full-featured site: business sectors, client case studies, magazine, job offers with applications, FAQ, branches, a financing simulator and contact forms.",
+          "Statically generated Gatsby 4 front end (React 17): pages are created from Strapi according to their type (sector, case study, job offer, article…), each with its own template.",
+          "Pages built from dynamic sections: each GraphQL section type maps to a dedicated React component.",
+          "Strapi 4 back office on MySQL, exposed over REST and GraphQL, multilingual, with an in-house content-builder plugin.",
+          "Media on DigitalOcean Spaces (CDN), transactional emails through Mailjet.",
+          "SEO (sitemap, canonical URLs, PWA) and GDPR compliance (Google Tag Manager, cookie consent).",
+          "Netlify deployments triggered from Strapi, with separate test and production environments."
+        ]
+      },
+      "stack": [
+        "Gatsby",
+        "React",
+        "GraphQL",
+        "Sass",
+        "Swiper",
+        "Strapi",
+        "Node.js",
+        "MySQL",
+        "DigitalOcean Spaces",
+        "Mailjet",
+        "Google Tag Manager",
+        "Netlify"
+      ],
+      "images": [
+        {
+          "src": "/projects/viatelease/01-accueil.webp",
+          "alt": {
+            "fr": "Page d'accueil",
+            "en": "Home page"
+          }
+        },
+        {
+          "src": "/projects/viatelease/02-secteur.webp",
+          "alt": {
+            "fr": "Page secteur (médical) : présentation de l'offre par métier",
+            "en": "Sector page (medical): the offer presented by industry"
+          }
+        },
+        {
+          "src": "/projects/viatelease/03-services.webp",
+          "alt": {
+            "fr": "Page des services Viatelease",
+            "en": "Viatelease services page"
+          }
+        },
+        {
+          "src": "/projects/viatelease/04-formulaire-partenaire.webp",
+          "alt": {
+            "fr": "Formulaire « Devenir partenaire » en fenêtre modale",
+            "en": "“Become a partner” form in a modal"
+          }
+        },
+        {
+          "src": "/projects/viatelease/05-formulaire-candidature.webp",
+          "alt": {
+            "fr": "Formulaire de candidature spontanée, avec dépôt de CV",
+            "en": "Spontaneous application form with CV upload"
+          }
+        },
+        {
+          "src": "/projects/viatelease/06-mobile.webp",
+          "alt": {
+            "fr": "Version mobile de l'accueil",
+            "en": "Mobile version of the home page"
+          },
+          "format": "mobile"
+        }
+      ],
+      "url": "https://viatelease.fr"
+    },
+    {
+      "slug": "yzy-digital",
+      "name": {
+        "fr": "YZY Digital",
+        "en": "YZY Digital"
+      },
+      "description": {
+        "fr": "Site vitrine bilingue (FR/EN) de YZY Digital, agence tech qui conçoit des applications web, mobiles et data. Développé avec Next.js, tout son contenu provient d'un CMS headless via GraphQL.",
+        "en": "Bilingual (FR/EN) showcase website for YZY Digital, a tech agency building web, mobile and data applications. Built with Next.js, with all content served by a headless CMS through GraphQL."
+      },
+      "keyPoints": {
+        "fr": [
+          "Site conçu et développé de zéro avec Next.js 14 (App Router), React 18 et TypeScript.",
+          "Contenu entièrement piloté par un CMS headless hébergé sur Azure, consommé via Apollo Client et GraphQL.",
+          "Carte interactive des bureaux (Mapbox GL, MapLibre GL, deck.gl) avec un optimiseur d'itinéraire basé sur OpenAI et l'API Google Maps.",
+          "Site bilingue FR/EN avec i18next, médias servis par Azure CDN.",
+          "Expérience interactive : carrousels Swiper, questionnaire Typeform et animations (js-confetti).",
+          "Styles en Sass/SCSS, organisés avec un fichier par composant."
+        ],
+        "en": [
+          "Designed and built from scratch with Next.js 14 (App Router), React 18 and TypeScript.",
+          "Content fully driven by a headless CMS hosted on Azure, consumed through Apollo Client and GraphQL.",
+          "Interactive office map (Mapbox GL, MapLibre GL, deck.gl) with a route optimiser powered by OpenAI and the Google Maps API.",
+          "Bilingual FR/EN site with i18next, media served through Azure CDN.",
+          "Interactive experience: Swiper carousels, Typeform questionnaire and animations (js-confetti).",
+          "Styling in Sass/SCSS, organised with one file per component."
+        ]
+      },
+      "stack": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Apollo Client",
+        "GraphQL",
+        "Sass",
+        "i18next",
+        "Mapbox GL",
+        "deck.gl",
+        "OpenAI",
+        "Google Maps API",
+        "Azure"
+      ],
+      "images": [
+        {
+          "src": "/projects/yzy-digital/01-accueil.webp",
+          "alt": {
+            "fr": "Page d'accueil",
+            "en": "Home page"
+          }
+        },
+        {
+          "src": "/projects/yzy-digital/02-carte-interactive.webp",
+          "alt": {
+            "fr": "Carte interactive des bureaux, avec optimiseur d'itinéraire",
+            "en": "Interactive office map with a route optimiser"
+          }
+        },
+        {
+          "src": "/projects/yzy-digital/03-competences.webp",
+          "alt": {
+            "fr": "Section compétences",
+            "en": "Skills section"
+          }
+        },
+        {
+          "src": "/projects/yzy-digital/04-mobile.webp",
+          "alt": {
+            "fr": "Version mobile de l'accueil",
+            "en": "Mobile version of the home page"
+          },
+          "format": "mobile"
+        }
+      ],
+      "url": "https://yzydigital.com/fr"
+    }
+  ]
+}
