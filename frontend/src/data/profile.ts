@@ -1,6 +1,5 @@
 import data from "../../../shared/profile.json";
 
-// Source unique des données du profil, partagée avec le backend (contexte de l'assistant).
 // Pour modifier le contenu du portfolio, éditer shared/profile.json à la racine du dépôt.
 
 export type Locale = "fr" | "en";
@@ -22,7 +21,6 @@ export interface Profile {
   location: Localized;
   experienceYears: number;
   email: string;
-  linkedin: string;
   linkedinUrl: string;
   cvUrl: Localized | null;
   heroDescription: Localized;

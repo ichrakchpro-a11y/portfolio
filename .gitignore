@@ -10,9 +10,6 @@ node_modules/
 .next/
 out/
 
-# NestJS
-dist/
-
 # Build divers
 build/
 coverage/
