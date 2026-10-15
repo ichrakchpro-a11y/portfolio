@@ -24,12 +24,12 @@ function readStoredLocale(): Locale | null {
 }
 
 export function LocaleProvider({ children }: { children: ReactNode }) {
-  // Le rendu serveur se fait en anglais ; la langue du visiteur est appliquée au montage.
-  const [locale, setLocaleState] = useState<Locale>("en");
+  // Français par défaut ; l'anglais n'est utilisé que si le visiteur l'a choisi avec le bouton FR / EN.
+  const [locale, setLocaleState] = useState<Locale>("fr");
 
   useEffect(() => {
-    const preferred = readStoredLocale() ?? (navigator.language.toLowerCase().startsWith("fr") ? "fr" : "en");
-    setLocaleState(preferred);
+    const stored = readStoredLocale();
+    if (stored) setLocaleState(stored);
   }, []);
 
   useEffect(() => {

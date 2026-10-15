@@ -30,12 +30,13 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://ichrak-chahbani.vercel.app"),
   title: "Ichrak Chahbani — Ingénieure en développement web Full-Stack",
   description:
-    "Portfolio of Ichrak Chahbani, a full-stack web engineer based in Djerba, Tunisia. React, Next.js, NestJS, MongoDB.",
+    "Portfolio d'Ichrak Chahbani, ingénieure en développement web Full-Stack basée à Djerba, Tunisie. React, Next.js, Node.js, NestJS.",
   openGraph: {
     type: "website",
+    locale: "fr_FR",
     title: "Ichrak Chahbani — Ingénieure en développement web Full-Stack",
     description:
-      "Full-stack web engineer based in Djerba, Tunisia: React, Next.js, NestJS, MongoDB, AI.",
+      "Ingénieure en développement web Full-Stack basée à Djerba, Tunisie : React, Next.js, Node.js, NestJS, IA.",
     images: ["/ichrak.jpg"],
   },
 };
@@ -46,7 +47,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" suppressHydrationWarning>
+    <html lang="fr" suppressHydrationWarning>
       <body className={`${spaceGrotesk.variable} ${inter.variable} ${jetbrainsMono.variable} antialiased`}>
         <ThemeProvider>
           <LocaleProvider>

@@ -100,9 +100,9 @@ export function Hero() {
             </button>
             {profile.cvUrl && (
               <a
-                href={profile.cvUrl}
+                href={profile.cvUrl[locale]}
                 download
-                className="inline-flex items-center gap-2 px-2 py-3 text-sm font-semibold text-ink underline decoration-border/30 underline-offset-4 transition-colors hover:text-accent hover:decoration-accent"
+                className="inline-flex items-center gap-2 rounded-md border border-border/15 px-6 py-3 text-sm font-semibold text-ink transition-colors hover:border-accent/50 hover:text-accent"
               >
                 {t.hero.downloadCv}
                 <span aria-hidden>↓</span>

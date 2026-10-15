@@ -12,7 +12,10 @@
   "email": "ichrak.ch.pro@gmail.com",
   "linkedin": "linkedin.com/in/ichrak-chahbani-358500263",
   "linkedinUrl": "https://www.linkedin.com/in/ichrak-chahbani-358500263/",
-  "cvUrl": null,
+  "cvUrl": {
+    "fr": "/cv/CV_Ichrak_Chahbani_FR.pdf",
+    "en": "/cv/CV_Ichrak_Chahbani_EN.pdf"
+  },
   "heroDescription": {
     "fr": "Plus de 4 ans d’expérience dans le développement d’applications web, avec une expertise en React, Next.js, Node.js et NestJS. J’interviens de la conception à la mise en production, en transformant les besoins fonctionnels en solutions robustes, évolutives et maintenables.",
     "en": "4+ years of experience building web applications, with expertise in React, Next.js, Node.js and NestJS. I work from design to production, turning functional requirements into robust, scalable and maintainable solutions."
@@ -30,6 +33,7 @@
       "items": [
         "React",
         "Next.js",
+        "Redux",
         "Gatsby",
         "TypeScript",
         "JavaScript",
@@ -101,6 +105,7 @@
         "en": "Workflow & collaboration"
       },
       "items": [
+        "Agile (Scrum)",
         "ClickUp",
         "Notion",
         "Miro"
@@ -111,12 +116,12 @@
     {
       "company": "YZY Digital",
       "role": {
-        "fr": "Ingénieure en développement web Full-Stack",
-        "en": "Full-Stack Web Engineer"
+        "fr": "Développeuse Web Full-Stack",
+        "en": "Full-Stack Web Developer"
       },
       "period": {
-        "fr": "Février 2022 — présent",
-        "en": "Feb 2022 — Present"
+        "fr": "Août 2022 — présent",
+        "en": "Aug 2022 — Present"
       },
       "location": "Djerba",
       "highlights": {
@@ -172,8 +177,8 @@
         "en": "Quality & delivery"
       },
       "description": {
-        "fr": "TypeScript, Docker, CI/CD avec GitHub Actions, analyse de code SonarCloud, suivi des erreurs avec Sentry.",
-        "en": "TypeScript, Docker, GitHub Actions CI/CD, SonarCloud code analysis, error tracking with Sentry."
+        "fr": "TypeScript, Docker, CI/CD avec GitHub Actions, analyse de code SonarQube, suivi des erreurs avec Sentry.",
+        "en": "TypeScript, Docker, GitHub Actions CI/CD, SonarQube code analysis, error tracking with Sentry."
       }
     }
   ],
@@ -281,7 +286,7 @@
         "ArgoCD",
         "Kargo",
         "GitHub Actions",
-        "SonarCloud"
+        "SonarQube"
       ],
       "images": [
         {

@@ -23,9 +23,10 @@ cohérents. Chaque texte existe en `fr` et en `en`, et le visiteur bascule avec 
 
 Les textes de l'interface (titres de sections, boutons, chat) sont dans `frontend/src/data/ui.ts`.
 
-Pour proposer le téléchargement du CV : déposer le PDF dans `frontend/public/` (par exemple
-`frontend/public/cv-ichrak-chahbani.pdf`) et renseigner `"cvUrl": "/cv-ichrak-chahbani.pdf"`
-dans `shared/profile.json`. Le bouton « Télécharger le CV » n'apparaît que si `cvUrl` est défini.
+Les CV téléchargeables sont dans `frontend/public/cv/` (une version française et une version
+anglaise). Le bouton « Télécharger le CV » propose celle qui correspond à la langue de la page ;
+les chemins sont définis dans `cvUrl` de `shared/profile.json`. Pour mettre à jour un CV, il
+suffit de remplacer le PDF en gardant le même nom de fichier.
 
 Après une modification de `shared/profile.json`, redémarrer le backend pour que l'assistant
 prenne en compte les nouvelles données.

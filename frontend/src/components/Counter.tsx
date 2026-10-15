@@ -14,10 +14,16 @@ export function Counter({
 }) {
   const ref = useRef<HTMLSpanElement>(null);
   const inView = useInView(ref, { once: true, margin: "-40px" });
-  const [display, setDisplay] = useState(0);
+  // La vraie valeur est rendue côté serveur (robots, aperçus de liens, navigateurs lents) ;
+  // l'animation ne démarre qu'une fois la section visible dans le navigateur.
+  const [display, setDisplay] = useState(value);
 
   useEffect(() => {
     if (!inView) return;
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      setDisplay(value);
+      return;
+    }
     const start = performance.now();
 
     function tick(now: number) {

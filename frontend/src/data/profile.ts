@@ -24,7 +24,7 @@ export interface Profile {
   email: string;
   linkedin: string;
   linkedinUrl: string;
-  cvUrl: string | null;
+  cvUrl: Localized | null;
   heroDescription: Localized;
   bio: Localized;
   skills: Array<{ category: Localized; items: string[] }>;

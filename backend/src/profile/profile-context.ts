@@ -9,7 +9,7 @@ interface Profile {
   experienceYears: number;
   email: string;
   linkedin: string;
-  cvUrl: string | null;
+  cvUrl: Localized | null;
   bio: Localized;
   skills: Array<{ category: Localized; items: string[] }>;
   experience: Array<{ company: string; role: Localized; period: Localized; location: string; highlights?: Localized<string[]> }>;
