@@ -69,9 +69,9 @@ Cette clé se renseigne dans `backend/.env` sous la variable `GEMINI_API_KEY`.
 
 1. Importer le dépôt dans Vercel.
 2. Définir `frontend/` comme racine du projet (« Root Directory »).
-3. Ajouter les variables d'environnement `NEXT_PUBLIC_API_URL` (URL publique du backend
-   déployé) et `NEXT_PUBLIC_SITE_URL` (URL publique du site, utilisée pour l'image d'aperçu
-   sur LinkedIn et les réseaux).
+3. Si l'assistant est réactivé, ajouter la variable `NEXT_PUBLIC_API_URL` (URL publique du
+   backend déployé). L'URL publique du site, utilisée pour l'image d'aperçu sur LinkedIn et
+   les réseaux, est définie dans `metadataBase` de `frontend/src/app/layout.tsx`.
 4. Laisser activée l'option « Include files outside of the Root Directory in the Build Step »
    (activée par défaut) : le frontend lit `shared/profile.json`, situé hors de `frontend/`.
 5. Déployer : Vercel détecte automatiquement Next.js et applique la commande de build standard.

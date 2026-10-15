@@ -27,7 +27,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000"),
+  metadataBase: new URL("https://ichrak-chahbani.vercel.app"),
   title: "Ichrak Chahbani — Ingénieure en développement web Full-Stack",
   description:
     "Portfolio of Ichrak Chahbani, a full-stack web engineer based in Djerba, Tunisia. React, Next.js, NestJS, MongoDB.",
